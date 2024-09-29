@@ -3,6 +3,7 @@
 
 * 🌍 I live in Germany
 * ✉️ You can contact me at autumn@baim.cc
+* I don't work on public repositories :)
 <!--
 **catgirlautumn/catgirlautumn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
