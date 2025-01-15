@@ -2,6 +2,7 @@
 
 
 * 🌍 I live in Germany
+* ⌨️ Express.js, React, Python, SS
 * ✉️ You can contact me at autumn@baim.cc
 * I don't work on public repositories :)
 <!--
