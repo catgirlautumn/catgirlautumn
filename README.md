@@ -4,6 +4,7 @@
 * 🌍 I live in Germany
 * ⌨️ Express.js, React, Python, SS
 * ✉️ You can contact me at autumn@baim.cc
+* 💡 Currently interested in learning more about UI/UX
 * I don't work on public repositories :)
 <!--
 **catgirlautumn/catgirlautumn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
