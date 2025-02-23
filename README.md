@@ -1,11 +1,4 @@
-### Heya 👋 I'm autumn
-
-
-* 🌍 I live in Germany
-* ⌨️ Express.js, React, Python, SS
-* ✉️ You can contact me at autumn@baim.cc
-* 💡 Currently interested in learning more about UI/UX
-* I don't work on public repositories :)
+![pipi](http://xiawei.baim.cc/@pipi?name=pipi&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 <!--
 **catgirlautumn/catgirlautumn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
